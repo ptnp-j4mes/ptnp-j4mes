@@ -11,7 +11,7 @@
 <hr/>
 <h1>Contact Us</h1>
 <p> 
-  - [Facebook](https://www.facebook.com/slepyzptnp) : Facebook
+ [Facebook](https://www.facebook.com/slepyzptnp)
 </p>
 <hr/>
 <p align="center" >
