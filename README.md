@@ -3,7 +3,7 @@
 
 <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExc2V1YTNvZGlwa3JnMnI3Mzc3YWN1aW1jMDNpbHVudjdndWI4M25haSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/HscDLzkO8EOTmgkhQP/giphy.gif" width="48">
 <p align="center" >
-  <img src="https://github.com/ptnp-j4mes/ptnp-j4mes/blob/b6fe8d9c577727eb9af8df7bab9f3784fd8f48b6/my-pic.jpg" width="500">
+  <img src="[https://github.com/ptnp-j4mes/ptnp-j4mes/blob/b6fe8d9c577727eb9af8df7bab9f3784fd8f48b6/my-pic.jpg](https://github.com/ptnp-j4mes/ptnp-j4mes/blob/7150ceb05dfd6653e9efb0ee3c8e1defb2cd8cc6/my-pic-me.jpg)" width="500">
 </p>
 <hr/>
 <h3>Tech Stack</h3>
