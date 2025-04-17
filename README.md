@@ -6,5 +6,5 @@
 <hr/>
 <h3>Tech Stack</h3>
 <img src="https://github.com/ptnp-j4mes/ptnp-j4mes/blob/6829f749ca328388974ff82a2144e14413df025e/nuxtjs.svg" width="48">
-This is a [hover text](## "your hover text") example.
+[Hover your mouse here to see the tooltip](https://stackoverflow.com/a/71729464/11465149 "This is a tooltip :)")
 
