@@ -6,6 +6,6 @@
 <hr/>
 <h3>Tech Stack</h3>
 <p>
- <img src="https://skillicons.dev/icons?i=nuxtjs,vite,vue,vuetify,ts,jquery,js,bootstrap,html,css,nodejs,laravel,php,mysql,sqlite">
+ <img src="https://skillicons.dev/icons?i=nuxtjs,vite,vue,vuetify,ts,jquery,js,bootstrap,html,css,nodejs,laravel,php,electron,mysql,sqlite,git,bitbucket,postman">
 </p>
 
