@@ -6,6 +6,6 @@
 <hr/>
 <h3>Tech Stack</h3>
 <p>
-  [![My Skills](https://skillicons.dev/icons?i=aws,gcp,azure,react,vue,flutter&perline=3)](https://skillicons.dev)
+ <img src="https://skillicons.dev/icons?i=nuxtjs,vite,vue,vuetify,ts,jquery,js,bootstrap,html,css,nodejs,laravel,php,mysql,sqlite">
 </p>
 
