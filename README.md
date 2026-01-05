@@ -7,7 +7,7 @@
 ## Tech Stack <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExY3BiYTExaGh3dzd5bGMyMG50c2xlYXlmamg4dmp0bjcxNzZ0YWVpMSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/5nzbSBgzjS7hC/giphy.gif" width="50">
 
 <p>
- <img src="https://skillicons.dev/icons?i=nuxtjs,vite,vue,vuetify,ts,js,jquery,bootstrap,html,css,nodejs,laravel,php,electron,mysql,sqlite,git,bitbucket,postman">
+ <img src="https://skillicons.dev/icons?i=nuxtjs,vite,vue,vuetify,ts,js,jquery,bootstrap,html,css,nodejs,express,laravel,php,electron,mysql,sqlite,git,bitbucket,postman">
 </p>
 
 ## Thing i do
