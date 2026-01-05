@@ -1,4 +1,4 @@
-<h1>HI, I'm Phattanapong.sw <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> </h1>
+# HI, I'm Phattanapong.sw <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> 
 <hr/>
 <h3 align="center">Back-End Web Developer | Front-End Web Developer | Software Engineer</h3>
 <p align="center" >
@@ -9,12 +9,19 @@
  <img src="https://skillicons.dev/icons?i=nuxtjs,vite,vue,vuetify,ts,js,jquery,bootstrap,html,css,nodejs,laravel,php,electron,mysql,sqlite,git,bitbucket,postman">
 </p>
 
+## Thing i do
+- [Advice](https://www.advice.co.th) : Ecommerce website IT and accessories
+- [iStore](https://www.istore.co.th) : Ecommerce website APPLE product
+
+
+<hr>
+
 <p align="center" >
   <img src="https://github.com/ptnp-j4mes/ptnp-j4mes/blob/c60fa62c27674cbdd70f41527c68d36e91bc1f85/my-pic-me.jpg" width="900">
 </p>
-
 <hr/>
 
 
-
+> [!NOTE]
+> JOB CURRENT : FRONTEND AND BACKEND DEVEOLPER
 
